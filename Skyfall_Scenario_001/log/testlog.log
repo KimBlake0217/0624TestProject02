@@ -1,0 +1,8 @@
+2022-06-16 15:59:30,827 - Skyfall-PCS -INFO - ***** Launching browser *****
+2022-06-16 15:59:30,866 - Skyfall-PCS -INFO - ***** Opening URL *****
+2022-06-16 15:59:39,924 - Skyfall-PCS -INFO - ***** Providing login details *****
+2022-06-16 15:59:40,119 - Skyfall-PCS -INFO - ***** Started login *****
+2022-06-16 15:59:43,207 - Skyfall-PCS -INFO - ***** Login passed *****
+2022-06-16 15:59:46,218 - Skyfall-PCS -INFO - ***** Click on User Image *****
+2022-06-16 15:59:47,268 - Skyfall-PCS -INFO - ***** Click on logout link *****
+2022-06-16 15:59:47,290 - Skyfall-PCS -INFO - ***** closing browser *****
